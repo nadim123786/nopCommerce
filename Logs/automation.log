@@ -1,0 +1,59 @@
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_002
+INFO:root:Started Login Test Case
+INFO:root:opening URL
+INFO:root:Creating Login Page Object
+INFO:root:Entering admin email
+INFO:root:Entering password
+INFO:root:Clicking Login Button
+INFO:root:Test case passed
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_002
+INFO:root:Started Login Test Case
+INFO:root:opening URL
+INFO:root:Creating Login Page Object
+INFO:root:Entering admin email
+INFO:root:Entering password
+INFO:root:Clicking Login Button
+INFO:root:Test case passed
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_002
+INFO:root:Started Login Test Case
+INFO:root:opening URL
+INFO:root:Creating Login Page Object
+INFO:root:Entering admin email
+INFO:root:Entering password
+INFO:root:Clicking Login Button
+INFO:root:Test_login_001
+INFO:root:Started HomePage test Case
+INFO:root:opening URL
+INFO:root:LoginPage Test case passed
+INFO:root:Test_login_002
+INFO:root:Started Login Test Case
+INFO:root:opening URL
+INFO:root:Creating Login Page Object
+INFO:root:Entering admin email
+INFO:root:Entering password
+INFO:root:Clicking Login Button
+INFO:root:Test Case Failed
