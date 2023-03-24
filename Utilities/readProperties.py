@@ -16,6 +16,3 @@ class ReadData:
     def read_password():
         return config.get('common info', 'password')
     
-    @staticmethod
-    def read_excel_path():
-        return config.get('common info', 'excelPath')
